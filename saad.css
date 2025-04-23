@@ -1,0 +1,54 @@
+
+body {
+
+    background-color: aqua;
+
+}
+
+.row-One {
+
+display: flex;
+
+}
+
+.card-One {
+
+width: 250px;
+padding: 20px;
+text-align: center;
+border: 1px solid black;
+display: inline-block;
+
+}
+
+.card-two img {
+
+width: 290px;
+margin-left: 100px;
+display: inline-block;
+}
+
+.card-three-space {
+
+margin-left: 100px;
+
+}
+
+
+.row-tow {
+
+display: flex;
+margin-top: 60px;
+
+}
+
+
+.headline {
+
+    text-align: center;
+ 
+}
+
+
+
+

@@ -1,0 +1,40 @@
+
+
+body{
+    background-color: rgb(242, 242, 12) ;
+}
+
+
+.row-One{
+    display: flex;
+   
+}
+
+.card-One{
+    border: 1px solid black;
+    width:250px;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+.card-two img{
+    width: 280px ;
+
+    margin-left: 100px;
+}
+
+.card-three-space{
+    margin-left: 100px;
+   
+}
+
+
+.row-two{
+    display: flex;
+    margin-top: 50px;
+}
+.headline{
+    text-align: center;
+}
+

@@ -1,0 +1,202 @@
+
+.first-step {
+
+background-color: rgb(92, 177, 211);
+color: white;
+display: flex;
+align-items: center;
+}
+
+.first-step h1 {
+margin-left: 30px;
+font-family: "Poetsen One", sans-serif;
+font-weight: 400;
+font-style: normal;
+
+}
+
+.first-step-two{
+    display: flex;
+    font-size: 10px;
+    margin-left: 60px;
+}
+.first-step-two li {
+    list-style: none;
+    margin-left: 30px;
+}
+
+.first-step-two-one {
+
+margin-left: 450px;
+display: flex;
+align-items: center;
+}
+
+.first-step-two-one li {
+
+list-style: none;
+margin-left: 30px;
+font-size:10px ;
+
+}
+
+.background-image {
+
+background-image: url("/3.jpg");
+width: 100%;
+height: 400px;
+background-size: cover;
+display: inline-block;
+display: flex;
+align-items: center;
+color: white;
+}
+
+.background-text {
+
+margin-left: 60px;
+
+
+}
+
+.text {
+
+    background-color: rgb(89, 178, 226);
+    bottom: none ;
+    padding: 7px 10px;
+    color: azure;
+    font-size: 10px;
+    cursor: pointer;
+    
+}
+
+.text:hover {
+
+    background-color: gold ;
+    color: black;
+   transition: 5s ;
+}
+
+
+.saad:hover {
+
+background-color: gold;
+color: black;
+transition: 5s;
+}
+
+.saad {
+
+    border: 1px solid white;
+    bottom: none ;
+    padding: 7px 10px;
+    color: azure;
+    font-size: 10px;
+    cursor: pointer;
+   
+}
+
+
+
+.logo {
+
+background-color: white;
+display: flex;
+align-items: center;
+gap: 100px;
+padding: 20px;
+
+}
+
+.logo-1 {
+
+display: flex;
+align-items: center;
+margin-left: 5px;
+}
+
+.logo-1 li {
+
+list-style: none;
+margin-left: 30px;
+font-size: 30px;
+}
+
+
+.logo-2{
+
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+
+
+}
+
+.logo-2 li {
+    list-style: none;
+    margin-left: 30px;
+    font-size: 30px;
+
+}
+
+.logo-3 {
+
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.logo-3 li {
+    list-style: none;
+    margin-left: 30px;
+    font-size: 30px;
+
+}
+
+.logo-4 {
+
+    display: flex;
+align-items: center;
+margin-left: 5px;
+
+}
+
+.logo-4 li {
+
+    list-style: none;
+    margin-left: 30px;
+    font-size: 30px;
+
+}
+
+
+.fashion-card-1 {
+
+position: relative;
+
+}
+
+.fashion-card-1 img {
+
+width: 400px;
+height: 600px;
+display: block;
+border: 1px solid black;
+
+}
+
+.fashion-card-1-text {
+
+position: absolute;
+top: 360;
+left: 50px;
+
+}
+
+.fashion-card-1-text button {
+
+    background-color: white;
+    bottom: none;
+    padding: 5px 8px;
+
+}
